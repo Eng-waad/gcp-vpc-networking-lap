@@ -1,5 +1,4 @@
-# gcp-vpc-networking-lap
-# GCP VPC Networking Lab
+# gcp-vpc-networking-setup
 
 This project demonstrates the implementation of Google Cloud VPC Networking including:
 
